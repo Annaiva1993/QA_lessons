@@ -37,3 +37,6 @@ def test_weather_description_field(api_params):
 
 
 
+if __name__ == "__main__":
+    import pytest
+    pytest.main()
